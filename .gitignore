@@ -1,0 +1,12 @@
+node_modules/
+dist/
+venv/
+.vscode/
+__pycache__/
+*.log
+session/text.text
+*.tmp
+*.swp
+*.DS_Store
+*.json
+*.session
