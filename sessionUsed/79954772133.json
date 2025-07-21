@@ -1,0 +1,28 @@
+{
+  "app_id": 2040,
+  "app_hash": "b18441a1ff607e10a989891a5462e627",
+  "sdk": "Windows 10",
+  "device": "G513RM-HF274WS",
+  "app_version": "5.2.0 x64",
+  "lang_pack": "ru",
+  "system_lang_pack": "en-US",
+  "username": "EVA_POPXiT",
+  "first_name": "\u00b0\u0415\u0432\u0438\u043a\u00b0",
+  "twoFA": null,
+  "session_file": "79954772133",
+  "phone": "79954772133",
+  "id": 7072802079,
+  "proxy": [
+    3,
+    "ru.smartproxy.com",
+    40000,
+    true,
+    "jnjkgfnskj",
+    "885kHNfb7mfnz+RvYz"
+  ],
+  "ipv6": false,
+  "module": "panel",
+  "time": "06:59:53(08.10.24)",
+  "status": "SpamBlock",
+  "work": 0
+}

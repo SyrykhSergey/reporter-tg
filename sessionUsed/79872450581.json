@@ -1,0 +1,31 @@
+{
+  "app_id": 2040,
+  "app_hash": "b18441a1ff607e10a989891a5462e627",
+  "sdk": "Windows 11",
+  "device": "16IRH8",
+  "app_version": "5.5.4 x64",
+  "lang_pack": "ru",
+  "system_lang_pack": "en-US",
+  "username": "Kinglieoo07",
+  "first_name": "\ud83d\udd2a\ud83e\uddc1\u0425\u041e\u041c\u042f\u041a\ud83d\udc39\ud83e\udd5e",
+  "last_name": "\u042f\u0433\u0430\u0444\u0430\u0440\u043e\u0432\u0430",
+  "full_name": null,
+  "is_premium": null,
+  "twoFA": "rabotata1234",
+  "session_file": "79872450581",
+  "phone": "79872450581",
+  "id": 7046493012,
+  "proxy": [
+    3,
+    "ru.smartproxy.com",
+    40000,
+    true,
+    "jnjkgfnskj",
+    "885kHNfb7mfnz+RvYz"
+  ],
+  "ipv6": false,
+  "module": "panel",
+  "time": "06:59:57(08.10.24)",
+  "status": "SpamBlock",
+  "work": 0
+}

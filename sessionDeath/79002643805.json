@@ -1,0 +1,29 @@
+{
+  "app_id": 2040,
+  "app_hash": "b18441a1ff607e10a989891a5462e627",
+  "sdk": "Windows 11",
+  "device": "G634JY-NM054WS",
+  "app_version": "5.5.3 x64",
+  "lang_pack": "en",
+  "system_lang_pack": "en-US",
+  "username": "lsal454512pon",
+  "first_name": "lsal454512",
+  "twoFA": "rabotata1234",
+  "session_file": "79002643805",
+  "phone": "79002643805",
+  "id": 6465891690,
+  "work": 0,
+  "proxy": [
+    3,
+    "ru.smartproxy.com",
+    40000,
+    true,
+    "jnjkgfnskj",
+    "885kHNfb7mfnz+RvYz"
+  ],
+  "ipv6": false,
+  "module": "panel",
+  "time": "06:59:52(08.10.24)",
+  "status": "SpamBlock",
+  "last_name": "\ud83e\udd0d\ud83d\udc99\u2764"
+}

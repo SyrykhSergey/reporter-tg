@@ -1,0 +1,30 @@
+{
+  "app_id": 2040,
+  "app_hash": "b18441a1ff607e10a989891a5462e627",
+  "sdk": "Windows 10",
+  "device": "GA401QEC-K2128TS",
+  "app_version": "5.6.3 x64",
+  "lang_pack": "en",
+  "system_lang_pack": "en-US",
+  "username": null,
+  "first_name": "\u0421\u0442\u0435\u0444\u0430\u043d\u0438\u044f",
+  "last_name": "\u0422\u0435\u0445\u0430\ud83c\udfa7\ud83e\udee7\ud83c\udf0a",
+  "full_name": "\u0421\u0442\u0435\u0444\u0430\u043d\u0438\u044f \u0422\u0435\u0445\u0430\ud83c\udfa7\ud83e\udee7\ud83c\udf0a",
+  "is_premium": false,
+  "twoFA": "rabotata1234",
+  "session_file": "79888657258",
+  "phone": "79888657258",
+  "id": 7012300271,
+  "proxy": [
+    3,
+    "185.162.130.85",
+    10063,
+    true,
+    "1wqTc9R7StsrTKYSSXJu",
+    "RNW78Fm5"
+  ],
+  "ipv6": false,
+  "module": "panel",
+  "time": "06:31:17(22.10.24)",
+  "status": "Free"
+}

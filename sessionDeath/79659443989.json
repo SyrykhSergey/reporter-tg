@@ -1,0 +1,31 @@
+{
+  "app_id": 2040,
+  "app_hash": "b18441a1ff607e10a989891a5462e627",
+  "sdk": "Windows 10",
+  "device": "K6602HC-N1901WS",
+  "app_version": "5.6.1 x64",
+  "lang_pack": "en",
+  "system_lang_pack": "en-US",
+  "username": null,
+  "first_name": "I'm sosiska",
+  "last_name": null,
+  "full_name": "I'm sosiska",
+  "is_premium": false,
+  "twoFA": "rabotata1234",
+  "session_file": "79659443989",
+  "phone": "79659443989",
+  "id": 6888960473,
+  "work": 1,
+  "proxy": [
+    3,
+    "185.162.130.85",
+    10041,
+    true,
+    "1wqTc9R7StsrTKYSSXJu",
+    "RNW78Fm5"
+  ],
+  "ipv6": false,
+  "module": "panel",
+  "time": "08:06:41(12.10.24)",
+  "status": "SpamBlock"
+}

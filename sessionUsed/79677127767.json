@@ -1,0 +1,28 @@
+{
+  "app_id": 2040,
+  "app_hash": "b18441a1ff607e10a989891a5462e627",
+  "sdk": "Windows 10",
+  "device": "GA401IU-HA250TS",
+  "app_version": "5.5.4 x64",
+  "lang_pack": "en",
+  "system_lang_pack": "en-US",
+  "username": "Airisik",
+  "first_name": "\ud83c\udf80\ud83d\udc8b\u2728\ud83d\ude36",
+  "twoFA": null,
+  "session_file": "79677127767",
+  "phone": "79677127767",
+  "id": 6726524132,
+  "proxy": [
+    3,
+    "ru.smartproxy.com",
+    40000,
+    true,
+    "jnjkgfnskj",
+    "885kHNfb7mfnz+RvYz"
+  ],
+  "ipv6": false,
+  "module": "panel",
+  "time": "06:59:56(08.10.24)",
+  "status": "SpamBlock",
+  "work": 0
+}

@@ -1,0 +1,30 @@
+{
+  "app_id": 2040,
+  "app_hash": "b18441a1ff607e10a989891a5462e627",
+  "sdk": "Windows 11",
+  "device": "B13M-870RU",
+  "app_version": "5.6.3 x64",
+  "lang_pack": "ru",
+  "system_lang_pack": "en-US",
+  "username": "NecoTian",
+  "first_name": "\ud83d\uded0\u2640\ufe0f",
+  "last_name": null,
+  "full_name": "\ud83d\uded0\u2640\ufe0f",
+  "is_premium": false,
+  "twoFA": "rabotata1234",
+  "session_file": "79961832125",
+  "phone": "79961832125",
+  "id": 7480506185,
+  "proxy": [
+    3,
+    "185.162.130.85",
+    10122,
+    true,
+    "1wqTc9R7StsrTKYSSXJu",
+    "RNW78Fm5"
+  ],
+  "ipv6": false,
+  "module": "panel",
+  "time": "06:31:17(22.10.24)",
+  "status": "Free"
+}

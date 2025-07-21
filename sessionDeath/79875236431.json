@@ -1,0 +1,28 @@
+{
+  "app_id": 2040,
+  "app_hash": "b18441a1ff607e10a989891a5462e627",
+  "sdk": "Windows 11",
+  "device": "GA402XZ-N2020WS",
+  "app_version": "5.5.4 x64",
+  "lang_pack": "en",
+  "system_lang_pack": "en-US",
+  "username": "kotikwr23",
+  "first_name": "\u0423\u043b\u044c\u044f\u0448\u0430\ud83c\udf80",
+  "twoFA": "rabotata1234",
+  "session_file": "79875236431",
+  "phone": "79875236431",
+  "id": 1785450296,
+  "work": 0,
+  "proxy": [
+    3,
+    "ru.smartproxy.com",
+    40000,
+    true,
+    "jnjkgfnskj",
+    "885kHNfb7mfnz+RvYz"
+  ],
+  "ipv6": false,
+  "module": "panel",
+  "time": "06:59:57(08.10.24)",
+  "status": "SpamBlock"
+}

@@ -1,0 +1,30 @@
+{
+  "app_id": 2040,
+  "app_hash": "b18441a1ff607e10a989891a5462e627",
+  "sdk": "Windows 10",
+  "device": "EX215-23-R6F9",
+  "app_version": "5.6.3 x64",
+  "lang_pack": "en",
+  "system_lang_pack": "en-US",
+  "username": "Mashakolarzh",
+  "first_name": "\u041c\u0430\u0448\u0430",
+  "last_name": null,
+  "full_name": "\u041c\u0430\u0448\u0430",
+  "is_premium": false,
+  "twoFA": "rabotata1234",
+  "session_file": "79783196109",
+  "phone": "79783196109",
+  "id": 6884943982,
+  "proxy": [
+    3,
+    "185.162.130.85",
+    10001,
+    true,
+    "1wqTc9R7StsrTKYSSXJu",
+    "RNW78Fm5"
+  ],
+  "ipv6": false,
+  "module": "panel",
+  "time": "06:31:17(22.10.24)",
+  "status": "Free"
+}

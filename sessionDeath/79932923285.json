@@ -1,0 +1,29 @@
+{
+  "app_id": 2040,
+  "app_hash": "b18441a1ff607e10a989891a5462e627",
+  "sdk": "Windows 10",
+  "device": "S5506MA-MA070W",
+  "app_version": "5.5.4 x64",
+  "lang_pack": "ru",
+  "system_lang_pack": "en-US",
+  "username": "HqDcGYJbC",
+  "first_name": "\u041d\u0430\u0441\u0442\u044f",
+  "twoFA": null,
+  "session_file": "79932923285",
+  "phone": "79932923285",
+  "id": 8003900655,
+  "proxy": [
+    3,
+    "ru.smartproxy.com",
+    40000,
+    true,
+    "jnjkgfnskj",
+    "885kHNfb7mfnz+RvYz"
+  ],
+  "ipv6": false,
+  "module": "panel",
+  "time": "06:59:53(08.10.24)",
+  "status": "SpamBlock",
+  "last_name": "\u0425\u0430\u0442\u0435\u043d\u0447\u0438\u043a",
+  "work": 0
+}

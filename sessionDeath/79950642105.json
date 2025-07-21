@@ -1,0 +1,30 @@
+{
+  "app_id": 2040,
+  "app_hash": "b18441a1ff607e10a989891a5462e627",
+  "sdk": "Windows 10",
+  "device": "B9450FA-BM0696R",
+  "app_version": "5.6.3 x64",
+  "lang_pack": "ru",
+  "system_lang_pack": "en-US",
+  "username": "mailkopl",
+  "first_name": "#::-(\u0448\u0435\u043b\u043b\u0438)-::#",
+  "last_name": null,
+  "full_name": "#::-(\u0448\u0435\u043b\u043b\u0438)-::#",
+  "is_premium": false,
+  "twoFA": "rabotata1234",
+  "session_file": "79950642105",
+  "phone": "79950642105",
+  "id": 5747307873,
+  "proxy": [
+    3,
+    "185.162.130.85",
+    10983,
+    true,
+    "1wqTc9R7StsrTKYSSXJu",
+    "RNW78Fm5"
+  ],
+  "ipv6": false,
+  "module": "panel",
+  "time": "06:31:16(22.10.24)",
+  "status": "Free"
+}

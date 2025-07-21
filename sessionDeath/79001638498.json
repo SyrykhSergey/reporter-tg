@@ -1,0 +1,30 @@
+{
+  "app_id": 2040,
+  "app_hash": "b18441a1ff607e10a989891a5462e627",
+  "sdk": "Windows 10",
+  "device": "FX506HF-HN025W",
+  "app_version": "5.6.2 x64",
+  "lang_pack": "en",
+  "system_lang_pack": "en-US",
+  "username": null,
+  "first_name": "\ud83c\udf80\ud835\ude9c\ud835\ude92\ud835\ude96\ud835\ude94\ud835\ude70\ud83c\udf80",
+  "last_name": null,
+  "full_name": "\ud83c\udf80\ud835\ude9c\ud835\ude92\ud835\ude96\ud835\ude94\ud835\ude70\ud83c\udf80",
+  "is_premium": false,
+  "twoFA": "rabotata1234",
+  "session_file": "79001638498",
+  "phone": "79001638498",
+  "id": 7130694341,
+  "proxy": [
+    3,
+    "185.162.130.85",
+    10596,
+    true,
+    "1wqTc9R7StsrTKYSSXJu",
+    "RNW78Fm5"
+  ],
+  "ipv6": false,
+  "module": "panel",
+  "time": "06:31:18(22.10.24)",
+  "status": "Free"
+}
